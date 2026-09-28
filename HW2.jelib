@@ -1,0 +1,61 @@
+# header information:
+HHW2|9.08
+
+# Views:
+Vlayout|lay
+
+# Technologies:
+Tmocmos|ScaleFORmocmos()D300.0|mocmosAnalog()BT|mocmosNumberOfMetalLayers()I3
+
+# Cell pad;1{lay}
+Cpad;1{lay}||mocmos|1790543835855|1790544023540||DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1790544298737
+Ngeneric:Facet-Center|art@0||0|0||||AV
+Nartwork:Box|art@1||0|0|400|400||
+NMetal-2-Metal-3-Con|contact@0||0|0|244|244||
+NPassivation-Node|plnode@0||0|0|200|200||
+X
+
+# Cell padframe;1{lay}
+Cpadframe;1{lay}||mocmos|1790544055302|1790544243837||DRC_last_good_drc_area_date()G1790544298737|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1790544298737
+Ngeneric:Facet-Center|art@0||0|0||||AV
+Ipad;1{lay}|pad@12||0|400|||D5G4;
+Ipad;1{lay}|pad@60||0|2000|||D5G4;
+Ipad;1{lay}|pad@108||0|3600|||D5G4;
+Ipad;1{lay}|pad@131||4400|4000|||D5G4;
+Ipad;1{lay}|pad@133||400|4400|||D5G4;
+Ipad;1{lay}|pad@135||1200|4400|||D5G4;
+Ipad;1{lay}|pad@140||3200|4400|||D5G4;
+Ipad;1{lay}|pad@144||400|0|||D5G4;
+Ipad;1{lay}|pad@145||800|0|||D5G4;
+Ipad;1{lay}|pad@146||1200|0|||D5G4;
+Ipad;1{lay}|pad@147||1600|0|||D5G4;
+Ipad;1{lay}|pad@148||2000|0|||D5G4;
+Ipad;1{lay}|pad@149||2400|0|||D5G4;
+Ipad;1{lay}|pad@150||2800|0|||D5G4;
+Ipad;1{lay}|pad@151||3200|0|||D5G4;
+Ipad;1{lay}|pad@152||3600|0|||D5G4;
+Ipad;1{lay}|pad@153||4000|0|||D5G4;
+Ipad;1{lay}|pad@166||4400|400|||D5G4;
+Ipad;1{lay}|pad@167||0|800|||D5G4;
+Ipad;1{lay}|pad@178||4400|800|||D5G4;
+Ipad;1{lay}|pad@179||0|1200|||D5G4;
+Ipad;1{lay}|pad@190||4400|1200|||D5G4;
+Ipad;1{lay}|pad@191||0|1600|||D5G4;
+Ipad;1{lay}|pad@202||4400|1600|||D5G4;
+Ipad;1{lay}|pad@214||4400|2000|||D5G4;
+Ipad;1{lay}|pad@215||0|2400|||D5G4;
+Ipad;1{lay}|pad@226||4400|2400|||D5G4;
+Ipad;1{lay}|pad@227||0|2800|||D5G4;
+Ipad;1{lay}|pad@238||4400|2800|||D5G4;
+Ipad;1{lay}|pad@239||0|3200|||D5G4;
+Ipad;1{lay}|pad@250||4400|3200|||D5G4;
+Ipad;1{lay}|pad@262||4400|3600|||D5G4;
+Ipad;1{lay}|pad@263||0|4000|||D5G4;
+Ipad;1{lay}|pad@277||800|4400|||D5G4;
+Ipad;1{lay}|pad@279||1600|4400|||D5G4;
+Ipad;1{lay}|pad@280||2000|4400|||D5G4;
+Ipad;1{lay}|pad@281||2400|4400|||D5G4;
+Ipad;1{lay}|pad@282||2800|4400|||D5G4;
+Ipad;1{lay}|pad@284||3600|4400|||D5G4;
+Ipad;1{lay}|pad@285||4000|4400|||D5G4;
+X
